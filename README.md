@@ -1,6 +1,6 @@
 # Here is the code to PayFan
 ## CLICK ON "code" TO VIEW CODE
-[Link to youtube video](https://youtu.be/vMln70tBvw4?si=PU9B-z-X87kXhE1j)
+[Link to youtube video](https://youtu.be/vMln70tBvw4?si=PU9B-z-X87kXhE1j) <br>
 This code was created for use on the Arduino MEGA and MEGA 2560 boards.
 ### Wiring diagram for PayFan
 
